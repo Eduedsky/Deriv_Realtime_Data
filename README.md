@@ -1,6 +1,3 @@
-README.md Template for GitHub Repository Updater Service
-markdown
-Copy code
 # GitHub Repository Updater Service
 
 ## Project Overview
