@@ -307,3 +307,9 @@
 2024-04-16 22:16:53,734 - INFO - Websocket connected
 2024-04-16 22:16:53,734 - INFO - WebSocket connection opened.
 2024-04-16 22:16:53,735 - INFO - Subscription message sent.
+2024-04-16 22:18:33,966 - ERROR - WebSocket error: Connection to remote host was lost.
+2024-04-16 22:18:33,966 - ERROR - Connection to remote host was lost. - goodbye
+2024-04-16 22:18:33,967 - INFO - WebSocket connection closed. Status None, Message: None. Reconnecting in 0.10 seconds...
+2024-04-16 22:18:34,773 - INFO - Websocket connected
+2024-04-16 22:18:34,773 - INFO - WebSocket connection opened.
+2024-04-16 22:18:34,773 - INFO - Subscription message sent.
