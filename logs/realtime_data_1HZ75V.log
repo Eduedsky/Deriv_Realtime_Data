@@ -3780,3 +3780,14 @@
 2024-04-16 21:54:53,277 - INFO - Received real-time data - Price: 7674.63, Epoch Time: 1713304493, Formatted Time: 2024-04-16 21:54:53, Last Digit: 3
 2024-04-16 21:54:54,353 - INFO - Received real-time data - Price: 7673.53, Epoch Time: 1713304494, Formatted Time: 2024-04-16 21:54:54, Last Digit: 3
 2024-04-16 21:54:55,274 - INFO - Received real-time data - Price: 7673.11, Epoch Time: 1713304495, Formatted Time: 2024-04-16 21:54:55, Last Digit: 1
+2024-04-16 21:54:56,402 - INFO - Received real-time data - Price: 7671.67, Epoch Time: 1713304496, Formatted Time: 2024-04-16 21:54:56, Last Digit: 7
+2024-04-16 21:54:57,272 - INFO - Received real-time data - Price: 7673.15, Epoch Time: 1713304497, Formatted Time: 2024-04-16 21:54:57, Last Digit: 5
+2024-04-16 21:54:58,364 - INFO - Received real-time data - Price: 7672.22, Epoch Time: 1713304498, Formatted Time: 2024-04-16 21:54:58, Last Digit: 2
+2024-04-16 21:54:59,269 - INFO - Received real-time data - Price: 7669.68, Epoch Time: 1713304499, Formatted Time: 2024-04-16 21:54:59, Last Digit: 8
+2024-04-16 21:55:00,343 - INFO - Received real-time data - Price: 7669.39, Epoch Time: 1713304500, Formatted Time: 2024-04-16 21:55:00, Last Digit: 9
+2024-04-16 21:55:01,279 - INFO - Received real-time data - Price: 7668.91, Epoch Time: 1713304501, Formatted Time: 2024-04-16 21:55:01, Last Digit: 1
+2024-04-16 21:55:02,363 - INFO - Received real-time data - Price: 7669.08, Epoch Time: 1713304502, Formatted Time: 2024-04-16 21:55:02, Last Digit: 8
+2024-04-16 21:55:03,272 - INFO - Received real-time data - Price: 7669.07, Epoch Time: 1713304503, Formatted Time: 2024-04-16 21:55:03, Last Digit: 7
+2024-04-16 21:55:04,355 - INFO - Received real-time data - Price: 7669.3, Epoch Time: 1713304504, Formatted Time: 2024-04-16 21:55:04, Last Digit: 3
+2024-04-16 21:55:05,266 - INFO - Received real-time data - Price: 7669.27, Epoch Time: 1713304505, Formatted Time: 2024-04-16 21:55:05, Last Digit: 7
+2024-04-16 21:55:06,334 - INFO - Received real-time data - Price: 7669.59, Epoch Time: 1713304506, Formatted Time: 2024-04-16 21:55:06, Last Digit: 9

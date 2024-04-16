@@ -3780,3 +3780,14 @@
 2024-04-16 21:54:53,277 - INFO - Received real-time data - Price: 1294.01, Epoch Time: 1713304493, Formatted Time: 2024-04-16 21:54:53, Last Digit: 1
 2024-04-16 21:54:54,380 - INFO - Received real-time data - Price: 1294.24, Epoch Time: 1713304494, Formatted Time: 2024-04-16 21:54:54, Last Digit: 4
 2024-04-16 21:54:55,277 - INFO - Received real-time data - Price: 1293.93, Epoch Time: 1713304495, Formatted Time: 2024-04-16 21:54:55, Last Digit: 3
+2024-04-16 21:54:56,330 - INFO - Received real-time data - Price: 1293.75, Epoch Time: 1713304496, Formatted Time: 2024-04-16 21:54:56, Last Digit: 5
+2024-04-16 21:54:57,268 - INFO - Received real-time data - Price: 1293.66, Epoch Time: 1713304497, Formatted Time: 2024-04-16 21:54:57, Last Digit: 6
+2024-04-16 21:54:58,340 - INFO - Received real-time data - Price: 1294.05, Epoch Time: 1713304498, Formatted Time: 2024-04-16 21:54:58, Last Digit: 5
+2024-04-16 21:54:59,275 - INFO - Received real-time data - Price: 1293.87, Epoch Time: 1713304499, Formatted Time: 2024-04-16 21:54:59, Last Digit: 7
+2024-04-16 21:55:00,347 - INFO - Received real-time data - Price: 1293.81, Epoch Time: 1713304500, Formatted Time: 2024-04-16 21:55:00, Last Digit: 1
+2024-04-16 21:55:01,271 - INFO - Received real-time data - Price: 1293.94, Epoch Time: 1713304501, Formatted Time: 2024-04-16 21:55:01, Last Digit: 4
+2024-04-16 21:55:02,338 - INFO - Received real-time data - Price: 1294.26, Epoch Time: 1713304502, Formatted Time: 2024-04-16 21:55:02, Last Digit: 6
+2024-04-16 21:55:03,271 - INFO - Received real-time data - Price: 1294.35, Epoch Time: 1713304503, Formatted Time: 2024-04-16 21:55:03, Last Digit: 5
+2024-04-16 21:55:04,379 - INFO - Received real-time data - Price: 1294.23, Epoch Time: 1713304504, Formatted Time: 2024-04-16 21:55:04, Last Digit: 3
+2024-04-16 21:55:05,264 - INFO - Received real-time data - Price: 1294.26, Epoch Time: 1713304505, Formatted Time: 2024-04-16 21:55:05, Last Digit: 6
+2024-04-16 21:55:06,350 - INFO - Received real-time data - Price: 1294.55, Epoch Time: 1713304506, Formatted Time: 2024-04-16 21:55:06, Last Digit: 5
