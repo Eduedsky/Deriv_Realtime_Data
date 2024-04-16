@@ -2302,3 +2302,18 @@
 2024-04-16 21:59:22,343 - INFO - Received real-time data - Price: 285.6638, Epoch Time: 1713304762, Formatted Time: 2024-04-16 21:59:22, Last Digit: 8
 2024-04-16 21:59:24,351 - INFO - Received real-time data - Price: 285.6397, Epoch Time: 1713304764, Formatted Time: 2024-04-16 21:59:24, Last Digit: 7
 2024-04-16 21:59:26,393 - INFO - Received real-time data - Price: 285.6704, Epoch Time: 1713304766, Formatted Time: 2024-04-16 21:59:26, Last Digit: 4
+2024-04-16 21:59:28,352 - INFO - Received real-time data - Price: 285.6175, Epoch Time: 1713304768, Formatted Time: 2024-04-16 21:59:28, Last Digit: 5
+2024-04-16 21:59:30,371 - INFO - Received real-time data - Price: 285.6801, Epoch Time: 1713304770, Formatted Time: 2024-04-16 21:59:30, Last Digit: 1
+2024-04-16 21:59:32,354 - INFO - Received real-time data - Price: 285.6944, Epoch Time: 1713304772, Formatted Time: 2024-04-16 21:59:32, Last Digit: 4
+2024-04-16 21:59:34,407 - INFO - Received real-time data - Price: 285.7187, Epoch Time: 1713304774, Formatted Time: 2024-04-16 21:59:34, Last Digit: 7
+2024-04-16 21:59:36,500 - INFO - Received real-time data - Price: 285.6898, Epoch Time: 1713304776, Formatted Time: 2024-04-16 21:59:36, Last Digit: 8
+2024-04-16 21:59:38,683 - INFO - Received real-time data - Price: 285.6621, Epoch Time: 1713304778, Formatted Time: 2024-04-16 21:59:38, Last Digit: 1
+2024-04-16 21:59:40,930 - ERROR - WebSocket error: [Errno 14] Bad address
+2024-04-16 21:59:40,931 - ERROR - [Errno 14] Bad address - goodbye
+2024-04-16 21:59:41,147 - INFO - WebSocket connection closed. Status None, Message: None. Reconnecting in 0.10 seconds...
+2024-04-16 21:59:41,950 - INFO - Websocket connected
+2024-04-16 21:59:41,951 - INFO - WebSocket connection opened.
+2024-04-16 21:59:41,951 - INFO - Subscription message sent.
+2024-04-16 21:59:42,380 - INFO - Received real-time data - Price: 285.6386, Epoch Time: 1713304782, Formatted Time: 2024-04-16 21:59:42, Last Digit: 6
+2024-04-16 21:59:44,381 - INFO - Received real-time data - Price: 285.6291, Epoch Time: 1713304784, Formatted Time: 2024-04-16 21:59:44, Last Digit: 1
+2024-04-16 21:59:46,389 - INFO - Received real-time data - Price: 285.6321, Epoch Time: 1713304786, Formatted Time: 2024-04-16 21:59:46, Last Digit: 1
