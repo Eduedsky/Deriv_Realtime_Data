@@ -3725,3 +3725,14 @@
 2024-04-16 21:53:58,308 - INFO - Received real-time data - Price: 535581.1, Epoch Time: 1713304438, Formatted Time: 2024-04-16 21:53:58, Last Digit: 1
 2024-04-16 21:53:59,277 - INFO - Received real-time data - Price: 535588.2, Epoch Time: 1713304439, Formatted Time: 2024-04-16 21:53:59, Last Digit: 2
 2024-04-16 21:54:00,309 - INFO - Received real-time data - Price: 535623.08, Epoch Time: 1713304440, Formatted Time: 2024-04-16 21:54:00, Last Digit: 8
+2024-04-16 21:54:01,265 - INFO - Received real-time data - Price: 535595.86, Epoch Time: 1713304441, Formatted Time: 2024-04-16 21:54:01, Last Digit: 6
+2024-04-16 21:54:02,301 - INFO - Received real-time data - Price: 535570.65, Epoch Time: 1713304442, Formatted Time: 2024-04-16 21:54:02, Last Digit: 5
+2024-04-16 21:54:03,285 - INFO - Received real-time data - Price: 535595.04, Epoch Time: 1713304443, Formatted Time: 2024-04-16 21:54:03, Last Digit: 4
+2024-04-16 21:54:04,308 - INFO - Received real-time data - Price: 535594.96, Epoch Time: 1713304444, Formatted Time: 2024-04-16 21:54:04, Last Digit: 6
+2024-04-16 21:54:05,264 - INFO - Received real-time data - Price: 535559.69, Epoch Time: 1713304445, Formatted Time: 2024-04-16 21:54:05, Last Digit: 9
+2024-04-16 21:54:06,324 - INFO - Received real-time data - Price: 535530.48, Epoch Time: 1713304446, Formatted Time: 2024-04-16 21:54:06, Last Digit: 8
+2024-04-16 21:54:07,276 - INFO - Received real-time data - Price: 535565.22, Epoch Time: 1713304447, Formatted Time: 2024-04-16 21:54:07, Last Digit: 2
+2024-04-16 21:54:08,323 - INFO - Received real-time data - Price: 535520.26, Epoch Time: 1713304448, Formatted Time: 2024-04-16 21:54:08, Last Digit: 6
+2024-04-16 21:54:09,278 - INFO - Received real-time data - Price: 535521.12, Epoch Time: 1713304449, Formatted Time: 2024-04-16 21:54:09, Last Digit: 2
+2024-04-16 21:54:10,354 - INFO - Received real-time data - Price: 535522.23, Epoch Time: 1713304450, Formatted Time: 2024-04-16 21:54:10, Last Digit: 3
+2024-04-16 21:54:11,271 - INFO - Received real-time data - Price: 535484.55, Epoch Time: 1713304451, Formatted Time: 2024-04-16 21:54:11, Last Digit: 5
