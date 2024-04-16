@@ -2380,3 +2380,14 @@
 2024-04-16 22:01:40,358 - INFO - Received real-time data - Price: 285.7526, Epoch Time: 1713304900, Formatted Time: 2024-04-16 22:01:40, Last Digit: 6
 2024-04-16 22:01:42,414 - INFO - Received real-time data - Price: 285.8084, Epoch Time: 1713304902, Formatted Time: 2024-04-16 22:01:42, Last Digit: 4
 2024-04-16 22:01:44,347 - INFO - Received real-time data - Price: 285.8131, Epoch Time: 1713304904, Formatted Time: 2024-04-16 22:01:44, Last Digit: 1
+2024-04-16 22:01:46,356 - INFO - Received real-time data - Price: 285.7701, Epoch Time: 1713304906, Formatted Time: 2024-04-16 22:01:46, Last Digit: 1
+2024-04-16 22:01:48,327 - INFO - Received real-time data - Price: 285.7155, Epoch Time: 1713304908, Formatted Time: 2024-04-16 22:01:48, Last Digit: 5
+2024-04-16 22:01:50,338 - INFO - Received real-time data - Price: 285.7419, Epoch Time: 1713304910, Formatted Time: 2024-04-16 22:01:50, Last Digit: 9
+2024-04-16 22:01:52,323 - INFO - Received real-time data - Price: 285.7412, Epoch Time: 1713304912, Formatted Time: 2024-04-16 22:01:52, Last Digit: 2
+2024-04-16 22:01:54,597 - INFO - Received real-time data - Price: 285.7383, Epoch Time: 1713304914, Formatted Time: 2024-04-16 22:01:54, Last Digit: 3
+2024-04-16 22:01:56,837 - INFO - Received real-time data - Price: 285.7169, Epoch Time: 1713304916, Formatted Time: 2024-04-16 22:01:56, Last Digit: 9
+2024-04-16 22:01:58,474 - INFO - Received real-time data - Price: 285.7411, Epoch Time: 1713304918, Formatted Time: 2024-04-16 22:01:58, Last Digit: 1
+2024-04-16 22:02:00,380 - INFO - Received real-time data - Price: 285.7157, Epoch Time: 1713304920, Formatted Time: 2024-04-16 22:02:00, Last Digit: 7
+2024-04-16 22:02:02,349 - INFO - Received real-time data - Price: 285.7338, Epoch Time: 1713304922, Formatted Time: 2024-04-16 22:02:02, Last Digit: 8
+2024-04-16 22:02:04,379 - INFO - Received real-time data - Price: 285.7171, Epoch Time: 1713304924, Formatted Time: 2024-04-16 22:02:04, Last Digit: 1
+2024-04-16 22:02:06,332 - INFO - Received real-time data - Price: 285.8047, Epoch Time: 1713304926, Formatted Time: 2024-04-16 22:02:06, Last Digit: 7
