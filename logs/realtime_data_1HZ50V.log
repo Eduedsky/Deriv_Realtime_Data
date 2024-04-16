@@ -190,3 +190,6 @@
 2024-04-16 21:44:51,432 - ERROR - WebSocket error: Connection to remote host was lost.
 2024-04-16 21:44:51,432 - ERROR - Connection to remote host was lost. - goodbye
 2024-04-16 21:44:51,432 - INFO - WebSocket connection closed. Status None, Message: None. Reconnecting in 0.10 seconds...
+2024-04-16 21:44:52,207 - INFO - Websocket connected
+2024-04-16 21:44:52,207 - INFO - WebSocket connection opened.
+2024-04-16 21:44:52,207 - INFO - Subscription message sent.
