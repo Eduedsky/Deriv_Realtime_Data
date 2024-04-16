@@ -229,3 +229,15 @@
 2024-04-16 21:54:58,418 - INFO - Websocket connected
 2024-04-16 21:54:58,418 - INFO - WebSocket connection opened.
 2024-04-16 21:54:58,418 - INFO - Subscription message sent.
+2024-04-16 21:56:38,645 - ERROR - WebSocket error: Connection to remote host was lost.
+2024-04-16 21:56:38,646 - ERROR - Connection to remote host was lost. - goodbye
+2024-04-16 21:56:38,646 - INFO - WebSocket connection closed. Status None, Message: None. Reconnecting in 0.10 seconds...
+2024-04-16 21:56:39,451 - INFO - Websocket connected
+2024-04-16 21:56:39,451 - INFO - WebSocket connection opened.
+2024-04-16 21:56:39,451 - INFO - Subscription message sent.
+2024-04-16 21:58:19,675 - ERROR - WebSocket error: Connection to remote host was lost.
+2024-04-16 21:58:19,675 - ERROR - Connection to remote host was lost. - goodbye
+2024-04-16 21:58:19,675 - INFO - WebSocket connection closed. Status None, Message: None. Reconnecting in 0.10 seconds...
+2024-04-16 21:58:20,483 - INFO - Websocket connected
+2024-04-16 21:58:20,489 - INFO - WebSocket connection opened.
+2024-04-16 21:58:20,490 - INFO - Subscription message sent.
