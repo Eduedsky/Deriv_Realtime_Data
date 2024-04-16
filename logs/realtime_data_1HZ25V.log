@@ -4076,3 +4076,70 @@
 2024-04-16 21:59:45,285 - INFO - Received real-time data - Price: 535082.02, Epoch Time: 1713304785, Formatted Time: 2024-04-16 21:59:45, Last Digit: 2
 2024-04-16 21:59:46,406 - INFO - Received real-time data - Price: 535069.98, Epoch Time: 1713304786, Formatted Time: 2024-04-16 21:59:46, Last Digit: 8
 2024-04-16 21:59:47,278 - INFO - Received real-time data - Price: 535054.97, Epoch Time: 1713304787, Formatted Time: 2024-04-16 21:59:47, Last Digit: 7
+2024-04-16 21:59:48,334 - INFO - Received real-time data - Price: 535040.15, Epoch Time: 1713304788, Formatted Time: 2024-04-16 21:59:48, Last Digit: 5
+2024-04-16 21:59:49,269 - INFO - Received real-time data - Price: 535048.71, Epoch Time: 1713304789, Formatted Time: 2024-04-16 21:59:49, Last Digit: 1
+2024-04-16 21:59:50,347 - INFO - Received real-time data - Price: 535049.24, Epoch Time: 1713304790, Formatted Time: 2024-04-16 21:59:50, Last Digit: 4
+2024-04-16 21:59:51,269 - INFO - Received real-time data - Price: 535066.16, Epoch Time: 1713304791, Formatted Time: 2024-04-16 21:59:51, Last Digit: 6
+2024-04-16 21:59:52,315 - INFO - Received real-time data - Price: 535063.53, Epoch Time: 1713304792, Formatted Time: 2024-04-16 21:59:52, Last Digit: 3
+2024-04-16 21:59:53,298 - INFO - Received real-time data - Price: 535061.64, Epoch Time: 1713304793, Formatted Time: 2024-04-16 21:59:53, Last Digit: 4
+2024-04-16 21:59:54,308 - INFO - Received real-time data - Price: 535038.2, Epoch Time: 1713304794, Formatted Time: 2024-04-16 21:59:54, Last Digit: 2
+2024-04-16 21:59:56,036 - INFO - Received real-time data - Price: 535020.95, Epoch Time: 1713304795, Formatted Time: 2024-04-16 21:59:55, Last Digit: 5
+2024-04-16 21:59:56,504 - INFO - Received real-time data - Price: 534973.75, Epoch Time: 1713304796, Formatted Time: 2024-04-16 21:59:56, Last Digit: 5
+2024-04-16 21:59:57,365 - INFO - Received real-time data - Price: 535000.64, Epoch Time: 1713304797, Formatted Time: 2024-04-16 21:59:57, Last Digit: 4
+2024-04-16 21:59:58,356 - INFO - Received real-time data - Price: 534928.58, Epoch Time: 1713304798, Formatted Time: 2024-04-16 21:59:58, Last Digit: 8
+2024-04-16 21:59:59,339 - INFO - Received real-time data - Price: 534931.28, Epoch Time: 1713304799, Formatted Time: 2024-04-16 21:59:59, Last Digit: 8
+2024-04-16 22:00:01,002 - ERROR - WebSocket error: [Errno 14] Bad address
+2024-04-16 22:00:01,010 - ERROR - [Errno 14] Bad address - goodbye
+2024-04-16 22:00:01,230 - INFO - WebSocket connection closed. Status None, Message: None. Reconnecting in 0.10 seconds...
+2024-04-16 22:00:02,026 - INFO - Websocket connected
+2024-04-16 22:00:02,026 - INFO - WebSocket connection opened.
+2024-04-16 22:00:02,026 - INFO - Subscription message sent.
+2024-04-16 22:00:02,372 - INFO - Received real-time data - Price: 534979.05, Epoch Time: 1713304802, Formatted Time: 2024-04-16 22:00:02, Last Digit: 5
+2024-04-16 22:00:03,303 - INFO - Received real-time data - Price: 534960.33, Epoch Time: 1713304803, Formatted Time: 2024-04-16 22:00:03, Last Digit: 3
+2024-04-16 22:00:04,427 - INFO - Received real-time data - Price: 534920.95, Epoch Time: 1713304804, Formatted Time: 2024-04-16 22:00:04, Last Digit: 5
+2024-04-16 22:00:05,320 - INFO - Received real-time data - Price: 534919.43, Epoch Time: 1713304805, Formatted Time: 2024-04-16 22:00:05, Last Digit: 3
+2024-04-16 22:00:06,393 - INFO - Received real-time data - Price: 534939.11, Epoch Time: 1713304806, Formatted Time: 2024-04-16 22:00:06, Last Digit: 1
+2024-04-16 22:00:07,295 - INFO - Received real-time data - Price: 534945.86, Epoch Time: 1713304807, Formatted Time: 2024-04-16 22:00:07, Last Digit: 6
+2024-04-16 22:00:08,417 - INFO - Received real-time data - Price: 534943.77, Epoch Time: 1713304808, Formatted Time: 2024-04-16 22:00:08, Last Digit: 7
+2024-04-16 22:00:09,325 - INFO - Received real-time data - Price: 534941.17, Epoch Time: 1713304809, Formatted Time: 2024-04-16 22:00:09, Last Digit: 7
+2024-04-16 22:00:10,413 - INFO - Received real-time data - Price: 534902.1, Epoch Time: 1713304810, Formatted Time: 2024-04-16 22:00:10, Last Digit: 1
+2024-04-16 22:00:11,285 - INFO - Received real-time data - Price: 534864.63, Epoch Time: 1713304811, Formatted Time: 2024-04-16 22:00:11, Last Digit: 3
+2024-04-16 22:00:12,443 - INFO - Received real-time data - Price: 534874.99, Epoch Time: 1713304812, Formatted Time: 2024-04-16 22:00:12, Last Digit: 9
+2024-04-16 22:00:13,327 - INFO - Received real-time data - Price: 534861.63, Epoch Time: 1713304813, Formatted Time: 2024-04-16 22:00:13, Last Digit: 3
+2024-04-16 22:00:14,357 - INFO - Received real-time data - Price: 534862.49, Epoch Time: 1713304814, Formatted Time: 2024-04-16 22:00:14, Last Digit: 9
+2024-04-16 22:00:15,310 - INFO - Received real-time data - Price: 534842.45, Epoch Time: 1713304815, Formatted Time: 2024-04-16 22:00:15, Last Digit: 5
+2024-04-16 22:00:16,406 - INFO - Received real-time data - Price: 534863.3, Epoch Time: 1713304816, Formatted Time: 2024-04-16 22:00:16, Last Digit: 3
+2024-04-16 22:00:17,310 - INFO - Received real-time data - Price: 534856.59, Epoch Time: 1713304817, Formatted Time: 2024-04-16 22:00:17, Last Digit: 9
+2024-04-16 22:00:18,421 - INFO - Received real-time data - Price: 534829.42, Epoch Time: 1713304818, Formatted Time: 2024-04-16 22:00:18, Last Digit: 2
+2024-04-16 22:00:19,303 - INFO - Received real-time data - Price: 534811.61, Epoch Time: 1713304819, Formatted Time: 2024-04-16 22:00:19, Last Digit: 1
+2024-04-16 22:00:20,452 - INFO - Received real-time data - Price: 534822.95, Epoch Time: 1713304820, Formatted Time: 2024-04-16 22:00:20, Last Digit: 5
+2024-04-16 22:00:21,311 - INFO - Received real-time data - Price: 534803.17, Epoch Time: 1713304821, Formatted Time: 2024-04-16 22:00:21, Last Digit: 7
+2024-04-16 22:00:22,389 - INFO - Received real-time data - Price: 534807.21, Epoch Time: 1713304822, Formatted Time: 2024-04-16 22:00:22, Last Digit: 1
+2024-04-16 22:00:23,294 - INFO - Received real-time data - Price: 534802.66, Epoch Time: 1713304823, Formatted Time: 2024-04-16 22:00:23, Last Digit: 6
+2024-04-16 22:00:24,396 - INFO - Received real-time data - Price: 534786.07, Epoch Time: 1713304824, Formatted Time: 2024-04-16 22:00:24, Last Digit: 7
+2024-04-16 22:00:25,320 - INFO - Received real-time data - Price: 534779.66, Epoch Time: 1713304825, Formatted Time: 2024-04-16 22:00:25, Last Digit: 6
+2024-04-16 22:00:26,386 - INFO - Received real-time data - Price: 534759.87, Epoch Time: 1713304826, Formatted Time: 2024-04-16 22:00:26, Last Digit: 7
+2024-04-16 22:00:27,313 - INFO - Received real-time data - Price: 534783.19, Epoch Time: 1713304827, Formatted Time: 2024-04-16 22:00:27, Last Digit: 9
+2024-04-16 22:00:28,379 - INFO - Received real-time data - Price: 534828.46, Epoch Time: 1713304828, Formatted Time: 2024-04-16 22:00:28, Last Digit: 6
+2024-04-16 22:00:29,305 - INFO - Received real-time data - Price: 534844.52, Epoch Time: 1713304829, Formatted Time: 2024-04-16 22:00:29, Last Digit: 2
+2024-04-16 22:00:30,360 - INFO - Received real-time data - Price: 534832.93, Epoch Time: 1713304830, Formatted Time: 2024-04-16 22:00:30, Last Digit: 3
+2024-04-16 22:00:31,330 - INFO - Received real-time data - Price: 534804.95, Epoch Time: 1713304831, Formatted Time: 2024-04-16 22:00:31, Last Digit: 5
+2024-04-16 22:00:32,394 - INFO - Received real-time data - Price: 534832.44, Epoch Time: 1713304832, Formatted Time: 2024-04-16 22:00:32, Last Digit: 4
+2024-04-16 22:00:33,301 - INFO - Received real-time data - Price: 534801.09, Epoch Time: 1713304833, Formatted Time: 2024-04-16 22:00:33, Last Digit: 9
+2024-04-16 22:00:34,363 - INFO - Received real-time data - Price: 534801.48, Epoch Time: 1713304834, Formatted Time: 2024-04-16 22:00:34, Last Digit: 8
+2024-04-16 22:00:35,308 - INFO - Received real-time data - Price: 534799.03, Epoch Time: 1713304835, Formatted Time: 2024-04-16 22:00:35, Last Digit: 3
+2024-04-16 22:00:36,412 - INFO - Received real-time data - Price: 534780.8, Epoch Time: 1713304836, Formatted Time: 2024-04-16 22:00:36, Last Digit: 8
+2024-04-16 22:00:37,309 - INFO - Received real-time data - Price: 534774.02, Epoch Time: 1713304837, Formatted Time: 2024-04-16 22:00:37, Last Digit: 2
+2024-04-16 22:00:38,372 - INFO - Received real-time data - Price: 534781.86, Epoch Time: 1713304838, Formatted Time: 2024-04-16 22:00:38, Last Digit: 6
+2024-04-16 22:00:39,293 - INFO - Received real-time data - Price: 534736.24, Epoch Time: 1713304839, Formatted Time: 2024-04-16 22:00:39, Last Digit: 4
+2024-04-16 22:00:40,443 - INFO - Received real-time data - Price: 534753.08, Epoch Time: 1713304840, Formatted Time: 2024-04-16 22:00:40, Last Digit: 8
+2024-04-16 22:00:41,526 - INFO - Received real-time data - Price: 534748.33, Epoch Time: 1713304841, Formatted Time: 2024-04-16 22:00:41, Last Digit: 3
+2024-04-16 22:00:42,529 - INFO - Received real-time data - Price: 534718.08, Epoch Time: 1713304842, Formatted Time: 2024-04-16 22:00:42, Last Digit: 8
+2024-04-16 22:00:43,583 - INFO - Received real-time data - Price: 534718.45, Epoch Time: 1713304843, Formatted Time: 2024-04-16 22:00:43, Last Digit: 5
+2024-04-16 22:00:44,436 - INFO - Received real-time data - Price: 534707.47, Epoch Time: 1713304844, Formatted Time: 2024-04-16 22:00:44, Last Digit: 7
+2024-04-16 22:00:45,317 - INFO - Received real-time data - Price: 534702.53, Epoch Time: 1713304845, Formatted Time: 2024-04-16 22:00:45, Last Digit: 3
+2024-04-16 22:00:46,390 - INFO - Received real-time data - Price: 534692.17, Epoch Time: 1713304846, Formatted Time: 2024-04-16 22:00:46, Last Digit: 7
+2024-04-16 22:00:47,291 - INFO - Received real-time data - Price: 534661.8, Epoch Time: 1713304847, Formatted Time: 2024-04-16 22:00:47, Last Digit: 8
+2024-04-16 22:00:48,398 - INFO - Received real-time data - Price: 534670.24, Epoch Time: 1713304848, Formatted Time: 2024-04-16 22:00:48, Last Digit: 4
+2024-04-16 22:00:49,321 - INFO - Received real-time data - Price: 534656.25, Epoch Time: 1713304849, Formatted Time: 2024-04-16 22:00:49, Last Digit: 5
+2024-04-16 22:00:50,407 - INFO - Received real-time data - Price: 534651.42, Epoch Time: 1713304850, Formatted Time: 2024-04-16 22:00:50, Last Digit: 2
