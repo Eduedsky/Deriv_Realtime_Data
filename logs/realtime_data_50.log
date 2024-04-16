@@ -2391,3 +2391,14 @@
 2024-04-16 22:02:02,349 - INFO - Received real-time data - Price: 285.7338, Epoch Time: 1713304922, Formatted Time: 2024-04-16 22:02:02, Last Digit: 8
 2024-04-16 22:02:04,379 - INFO - Received real-time data - Price: 285.7171, Epoch Time: 1713304924, Formatted Time: 2024-04-16 22:02:04, Last Digit: 1
 2024-04-16 22:02:06,332 - INFO - Received real-time data - Price: 285.8047, Epoch Time: 1713304926, Formatted Time: 2024-04-16 22:02:06, Last Digit: 7
+2024-04-16 22:02:08,336 - INFO - Received real-time data - Price: 285.8051, Epoch Time: 1713304928, Formatted Time: 2024-04-16 22:02:08, Last Digit: 1
+2024-04-16 22:02:10,351 - INFO - Received real-time data - Price: 285.7897, Epoch Time: 1713304930, Formatted Time: 2024-04-16 22:02:10, Last Digit: 7
+2024-04-16 22:02:12,325 - INFO - Received real-time data - Price: 285.7987, Epoch Time: 1713304932, Formatted Time: 2024-04-16 22:02:12, Last Digit: 7
+2024-04-16 22:02:14,462 - INFO - Received real-time data - Price: 285.7116, Epoch Time: 1713304934, Formatted Time: 2024-04-16 22:02:14, Last Digit: 6
+2024-04-16 22:02:16,766 - INFO - Received real-time data - Price: 285.7224, Epoch Time: 1713304936, Formatted Time: 2024-04-16 22:02:16, Last Digit: 4
+2024-04-16 22:02:18,510 - INFO - Received real-time data - Price: 285.6894, Epoch Time: 1713304938, Formatted Time: 2024-04-16 22:02:18, Last Digit: 4
+2024-04-16 22:02:20,333 - INFO - Received real-time data - Price: 285.6875, Epoch Time: 1713304940, Formatted Time: 2024-04-16 22:02:20, Last Digit: 5
+2024-04-16 22:02:22,343 - INFO - Received real-time data - Price: 285.6355, Epoch Time: 1713304942, Formatted Time: 2024-04-16 22:02:22, Last Digit: 5
+2024-04-16 22:02:24,340 - INFO - Received real-time data - Price: 285.6447, Epoch Time: 1713304944, Formatted Time: 2024-04-16 22:02:24, Last Digit: 7
+2024-04-16 22:02:26,390 - INFO - Received real-time data - Price: 285.588, Epoch Time: 1713304946, Formatted Time: 2024-04-16 22:02:26, Last Digit: 8
+2024-04-16 22:02:28,381 - INFO - Received real-time data - Price: 285.5049, Epoch Time: 1713304948, Formatted Time: 2024-04-16 22:02:28, Last Digit: 9
