@@ -844,3 +844,6 @@
 2024-04-17 00:46:44,581 - ERROR - error from callback <function load_realtime_data.<locals>.on_close at 0x7fe1eb6c8d30>: maximum recursion depth exceeded while calling a Python object
 2024-04-17 00:46:44,582 - ERROR - error from callback <function load_realtime_data.<locals>.on_close at 0x7fe1eb6c8d30>: maximum recursion depth exceeded while calling a Python object
 2024-04-17 00:46:44,582 - ERROR - WebSocket error: maximum recursion depth exceeded while calling a Python object
+2024-04-17 18:37:00,028 - INFO - Websocket connected
+2024-04-17 18:37:00,029 - INFO - WebSocket connection opened.
+2024-04-17 18:37:00,029 - INFO - Subscription message sent.
