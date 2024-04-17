@@ -835,3 +835,12 @@
 2024-04-17 00:45:03,289 - INFO - Websocket connected
 2024-04-17 00:45:03,289 - INFO - WebSocket connection opened.
 2024-04-17 00:45:03,289 - INFO - Subscription message sent.
+2024-04-17 00:46:43,515 - ERROR - WebSocket error: Connection to remote host was lost.
+2024-04-17 00:46:43,516 - ERROR - Connection to remote host was lost. - goodbye
+2024-04-17 00:46:43,516 - INFO - WebSocket connection closed. Status None, Message: None. Reconnecting in 0.10 seconds...
+2024-04-17 00:46:44,366 - INFO - Websocket connected
+2024-04-17 00:46:44,366 - ERROR - error from callback <function load_realtime_data.<locals>.on_open at 0x7fe1eb786830>: maximum recursion depth exceeded while calling a Python object
+2024-04-17 00:46:44,366 - INFO - tearing down on exception maximum recursion depth exceeded while calling a Python object
+2024-04-17 00:46:44,581 - ERROR - error from callback <function load_realtime_data.<locals>.on_close at 0x7fe1eb6c8d30>: maximum recursion depth exceeded while calling a Python object
+2024-04-17 00:46:44,582 - ERROR - error from callback <function load_realtime_data.<locals>.on_close at 0x7fe1eb6c8d30>: maximum recursion depth exceeded while calling a Python object
+2024-04-17 00:46:44,582 - ERROR - WebSocket error: maximum recursion depth exceeded while calling a Python object
