@@ -853,3 +853,12 @@
 2024-04-17 18:38:41,051 - INFO - Websocket connected
 2024-04-17 18:38:41,051 - INFO - WebSocket connection opened.
 2024-04-17 18:38:41,052 - INFO - Subscription message sent.
+2024-04-17 18:40:21,322 - ERROR - WebSocket error: Connection to remote host was lost.
+2024-04-17 18:40:21,323 - ERROR - Connection to remote host was lost. - goodbye
+2024-04-17 18:40:21,323 - INFO - WebSocket connection closed. Status None, Message: None. Reconnecting in 0.10 seconds...
+2024-04-17 18:40:22,107 - INFO - Websocket connected
+2024-04-17 18:40:22,107 - INFO - WebSocket connection opened.
+2024-04-17 18:40:22,107 - INFO - Subscription message sent.
+2024-04-17 18:40:34,029 - INFO - Websocket connected
+2024-04-17 18:40:34,029 - INFO - WebSocket connection opened.
+2024-04-17 18:40:34,029 - INFO - Subscription message sent.
