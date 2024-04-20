@@ -36,7 +36,7 @@ cat ~/.ssh/id_ed25519.pub | clip
 ```
 Go to GitHub.com, under SSH and GPG keys, click New SSH key, paste your key, and save.
 
-###Step 3: Clone the GitHub Repository
+### Step 3: Clone the GitHub Repository
 Clone the repository where you want to push the logs:
 
 ```bash
@@ -44,7 +44,7 @@ git clone git@github.com:Eduedsky/Deriv_Realtime_Data.git
 cd Deriv_Realtime_Data
 ```
 
-###Step 4: Setup Working Directory
+### Step 4: Setup Working Directory
 Create and configure the working directory:
 
 ```bash
@@ -53,7 +53,7 @@ cd /home/github/Deriv_Realtime_Data
 ```
 This directory will be used to store and manage the files before they are pushed to GitHub.
 
-###Step 5: Python Environment Setup
+### Step 5: Python Environment Setup
 Set up the Python environment within the directory:
 
 ```bash
@@ -62,7 +62,7 @@ source venv/bin/activate
 pip install -r requirements.txt  # Ensure you have a requirements.txt or install necessary packages manually
 ```
 
-###Step 6: Create a Systemd Service
+### Step 6: Create a Systemd Service
 Create a systemd service file to automate the script execution:
 
 ```bash
@@ -90,21 +90,23 @@ WantedBy=multi-user.target
 
 Replace paths as necessary to match your setup.
 
-Step 7: Enable and Start the Service
+### Step 7: Enable and Start the Service
 Enable and start your service:
 
-bash
-Copy code
+```bash
 sudo systemctl daemon-reload
 sudo systemctl enable github_updater.service
 sudo systemctl start github_updater.service
-Step 8: Monitor the Service
+```
+
+### Step 8: Monitor the Service
 Check the status and monitor the logs of your service:
 
-bash
-Copy code
+```bash
 sudo systemctl status github_updater.service
 journalctl -u github_updater.service -f
+```
+
 Troubleshooting
 If issues arise:
 
