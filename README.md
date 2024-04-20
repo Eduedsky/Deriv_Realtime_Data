@@ -12,7 +12,7 @@ This service automatically pushes log files from a server to the GitHub reposito
 
 ### Step 1: Install Git and Python
 Ensure Git and Python are installed on your server. If not, install them using:
-bash
+
 sudo apt update
 sudo apt install git python3 python3-venv
 Step 2: Generate and Add SSH Keys to GitHub
