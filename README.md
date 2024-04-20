@@ -28,10 +28,11 @@ Before you deploy the GitHub Repository Updater Service, ensure you have the fol
    ```bash
    git clone https://github.com/yourusername/github-updater-service.git
    cd github-updater-service
+   ```
 Install dependencies:
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+```
 Configuring the Service
 Set up the log directory:
 Ensure that your log files are stored in /home/deriv, or modify the script to point to your log directory.
@@ -45,18 +46,20 @@ Copy the provided github_updater.service to /etc/systemd/system/.
 
 Enable and start the service:
 
-bash
-Copy code
+```bash
 sudo systemctl enable github_updater.service
 sudo systemctl start github_updater.service
+```
+
 Usage
 Once installed, the service will automatically monitor the specified directory for new or modified log files and push them to the configured GitHub repository every minute.
 
 You can check the status of the service using:
 
-bash
-Copy code
+```bash
 sudo systemctl status github_updater.service
+```
+
 Logs
 Logs for the operations carried out by the service can be found at:
 /home/github/git_push_log.log, providing details of the file operations and any errors encountered.
