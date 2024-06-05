@@ -107,22 +107,20 @@ sudo systemctl status github_updater.service
 journalctl -u github_updater.service -f
 ```
 
-Troubleshooting
+#### Troubleshooting
 If issues arise:
 
 Check the SSH connection to GitHub: ssh -T git@github.com
 Ensure the Python script is executable and the paths in the service file are correct.
 Review the logs for any error messages that might indicate what went wrong.
-Conclusion
+
+#### Conclusion
 This setup ensures that your server's log files are automatically pushed to a GitHub repository, providing a reliable and automated backup solution.
 
-Additional Information
+#### Additional Information
 SSH Key Email: Replace "your_email@example.com" with the email associated with your GitHub account.
 Repository URL: Ensure the repository URL in the clone command matches your actual repository URL.
-bash
-Copy code
 
-This Markdown document is formatted for optimal readability and functionality within GitHub repositories, helping users follow the instructions smoothly and effectively.
 
 
 
